@@ -9,9 +9,13 @@ Senior Digital Design Engineer with focus on ASIC and FPGA development. I build 
 | Repository | Description |
 |---|---|
 | [fpga-design-toolkit](https://github.com/moaz-kh/fpga-design-toolkit) | FPGA design toolkit with templates and standard modules |
-| [fpga_cdc_lib](https://github.com/moaz-kh/fpga_cdc_lib) | Clock Domain Crossing (CDC) modules for FPGA designs |
-| [MEM_lib](https://github.com/moaz-kh/MEM_lib) | SystemVerilog memory interface library |
+| [asic-desing-toolkit](https://github.com/moaz-kh/asic-desing-toolkit) | ASIC design toolkit with templates and open-source PDKs |
+| [cdc_lib](https://github.com/moaz-kh/cdc_lib) | Clock Domain Crossing (CDC) modules for FPGA designs |
+| [clk_lib](https://github.com/moaz-kh/clk_lib) | Clock divider library — multiple architectures and methods |
 | [spi-config-interface](https://github.com/moaz-kh/spi-config-interface) | Configuration register file accessed via SPI |
+| [FIFO_lib](https://github.com/moaz-kh/FIFO_lib) | SystemVerilog FIFO library (synchronous + asynchronous) |
+| [MEM_lib](https://github.com/moaz-kh/MEM_lib) | SystemVerilog memory interface library |
+| [dff-interactive](https://github.com/moaz-kh/dff-interactive) | Interactive D flip-flop web demo |
 
 ---
 
